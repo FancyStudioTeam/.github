@@ -13,14 +13,13 @@
 
 ---
 
-# 🌹 Welcome to FancyStudio!
+# Welcome to FancyStudio
 
-FancyStudio is a team of people who believe that everyone deserves a high-quality project or product to use.
+We are a team of developers who create high-quality products for all types of audiences. We aim to offer powerful products designed to fully replace existing ones.
 
-## 💖 Our Principles
+## Our Principles
 
-| Principle                           | Description                                                                                                                                                                                                                        |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **💸 Affordable and Fair**          | We believe everyone deserves access to a great product, which is why we set fair and affordable prices to ensure our current and future products continue to offer incredible features for everyone.                               |
-| **💌 Feedback**                     | We believe everyone deserves to be heard, which is why we value and take our users’ feedback seriously to improve or create new products.                                                                                          |
-| **💚 Transparency and Open Source** | We believe everyone deserves a transparent company, which is why we share important announcements with everyone and keep some of our products open source so that anyone can view the code and help contribute to its improvement. |
+| Principle               | Description                                                                                                                         |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Affordable and Fair** | Our team offers products at a fair and affordable price so that anyone can use them and help us keep our services running.          |
+| **Feedback**            | Our team welcomes all types of feedback on our products, which helps us improve them and provide a better experience for our users. |
